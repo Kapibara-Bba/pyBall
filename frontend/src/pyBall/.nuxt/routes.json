@@ -1,0 +1,9 @@
+[
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/usr/src/app/pyBall/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_5312d676"
+  }
+]
